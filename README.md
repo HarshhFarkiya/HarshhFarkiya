@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhfarkiya&label=Profile%20views&color=0e75b6&style=flat" alt="harshhfarkiya" /> </p>
 
-- 🌱 I’m currently learning **ReactJs & SpringBoot**
+- 👨‍💻 I’m currently working on **ReactJs & SpringBoot**
 
 - 💬 Ask me about **react, springboot, big data concepts & frameworks.**
 
