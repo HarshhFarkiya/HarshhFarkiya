@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Harsh Farkiya:
 👨‍💻 I’m currently working on ReactJs & SpringBoot<br><br>💬 Ask me about react, springboot, big data concepts & frameworks.<br><br>📫 How to reach me harshfarkiya123@gmail.com
 
 
